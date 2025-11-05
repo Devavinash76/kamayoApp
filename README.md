@@ -13,12 +13,19 @@ It serves as a foundation for creating beautiful, fast, and cross-platform apps 
 - Easy to customize and extend  
 
 ---
-
 ## 🧩 Screenshots
 
-| <img src="splash.jpg" width="250"/> | <img src="login.jpg" width="250"/> | <img src="signup.jpg" width="250"/> | <img src="home.jpg" width="250"/> | <img src="drawer.jpg" width="250"/> |
+<div align="center">
 
- 
+| Splash Screen | Login Screen | Sign Up |
+|:--------------:|:------------:|:--------:|
+| <img src="screenshots/splash.jpg" width="200"/> | <img src="screenshots/login.jpg" width="200"/> | <img src="screenshots/signup.jpg" width="200"/> |
+
+| Home Screen | Drawer |
+|:-------------:|:--------:|
+| <img src="screenshots/home.jpg" width="200"/> | <img src="screenshots/drawer.jpg" width="200"/> |
+
+</div>
 
 
 ## 🛠️ Getting Started

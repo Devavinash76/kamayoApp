@@ -15,8 +15,7 @@ It serves as a foundation for creating beautiful, fast, and cross-platform apps 
 ---
 
 ## 🧩 Screenshots
- 
-|:--------------:|:-----------:|
+
 | <img src="splash.jpg" width="250"/> | <img src="login.jpg" width="250"/> |
 
  

@@ -29,6 +29,6 @@ Make sure you have the following installed:
 ### 2️⃣ Installation
 
 ```bash
-git clone https://github.com/your-username/kamayo.git
+git clone [https://github.com/your-username/kamayo.git](https://github.com/Devavinash76/kamayoApp.git)
 cd kamayo
 flutter pub get

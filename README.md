@@ -46,3 +46,11 @@ Make sure you have the following installed:
 git clone https://github.com/Devavinash76/kamayo.git
 cd kamayo
 flutter pub get
+
+## 👨‍💻 Author
+
+**Avinash Agnihotri**  
+📧 [devavinash76@gmail.com](mailto:devavinash76@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/avinash-agnihotri)  
+🐙 [GitHub](https://github.com/avinashagnihotri)
+

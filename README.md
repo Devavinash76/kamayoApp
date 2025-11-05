@@ -13,6 +13,7 @@ It serves as a foundation for creating beautiful, fast, and cross-platform apps 
 - Easy to customize and extend  
 
 ---
+
 ## 🧩 Screenshots
 
 <div align="center">
@@ -27,6 +28,7 @@ It serves as a foundation for creating beautiful, fast, and cross-platform apps 
 
 </div>
 
+---
 
 ## 🛠️ Getting Started
 
@@ -42,17 +44,9 @@ Make sure you have the following installed:
 
 ### 2️⃣ Installation
 
+You can clone this repository and install dependencies using the following commands:
+
 ```bash
 git clone https://github.com/Devavinash76/kamayo.git
 cd kamayo
 flutter pub get
-
-## 👨‍💻 Author
-
-**Avinash Agnihotri**  
-
-📧 [Email](mailto:devavinash76@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/avinash-agnihotri)  
-🐙 [GitHub](https://github.com/avinashagnihotri)
-
-
